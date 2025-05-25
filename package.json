@@ -1,0 +1,27 @@
+{
+  "name": "business-rule-mgmt",
+  "version": "1.0.0",
+  "description": "rule engine for business rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarajydv/business-rule-mgmt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityarajydv/business-rule-mgmt/issues"
+  },
+  "homepage": "https://github.com/adityarajydv/business-rule-mgmt#readme",
+  "dependencies": {
+    "@types/node": "^22.15.21",
+    "eventemitter2": "^6.4.9",
+    "json-rules-engine": "^7.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
